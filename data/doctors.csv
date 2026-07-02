@@ -1,0 +1,51 @@
+doctorId,name,specialization,experience,availability,consultationFee
+D001,Dr. Doctor_1,Neurology,20,Busy,300
+D002,Dr. Doctor_2,Orthopedics,21,On Leave,1500
+D003,Dr. Doctor_3,Dermatology,18,Available,300
+D004,Dr. Doctor_4,Dermatology,24,On Leave,1000
+D005,Dr. Doctor_5,Cardiology,27,Available,500
+D006,Dr. Doctor_6,Ophthalmology,11,Busy,1500
+D007,Dr. Doctor_7,Ophthalmology,2,Available,700
+D008,Dr. Doctor_8,Pediatrics,25,Available,1000
+D009,Dr. Doctor_9,Gynecology,18,On Leave,1500
+D010,Dr. Doctor_10,Oncology,29,On Leave,300
+D011,Dr. Doctor_11,Orthopedics,25,Busy,300
+D012,Dr. Doctor_12,General Medicine,7,Available,300
+D013,Dr. Doctor_13,Oncology,24,Available,300
+D014,Dr. Doctor_14,Oncology,15,Available,700
+D015,Dr. Doctor_15,ENT,11,Busy,1000
+D016,Dr. Doctor_16,Cardiology,18,Busy,500
+D017,Dr. Doctor_17,Dermatology,23,Busy,700
+D018,Dr. Doctor_18,Pediatrics,12,Busy,700
+D019,Dr. Doctor_19,Ophthalmology,6,Busy,500
+D020,Dr. Doctor_20,Cardiology,20,On Leave,500
+D021,Dr. Doctor_21,ENT,23,Available,300
+D022,Dr. Doctor_22,General Medicine,13,Available,700
+D023,Dr. Doctor_23,Pediatrics,20,Available,1500
+D024,Dr. Doctor_24,ENT,16,Available,500
+D025,Dr. Doctor_25,Dermatology,18,Available,500
+D026,Dr. Doctor_26,Dermatology,10,Available,1000
+D027,Dr. Doctor_27,Dermatology,28,Available,1500
+D028,Dr. Doctor_28,Cardiology,23,Available,1500
+D029,Dr. Doctor_29,Cardiology,8,On Leave,500
+D030,Dr. Doctor_30,Ophthalmology,18,Available,300
+D031,Dr. Doctor_31,Ophthalmology,21,On Leave,1000
+D032,Dr. Doctor_32,General Medicine,1,Busy,1500
+D033,Dr. Doctor_33,Pediatrics,23,Available,500
+D034,Dr. Doctor_34,Neurology,8,Busy,1500
+D035,Dr. Doctor_35,Neurology,29,Busy,1000
+D036,Dr. Doctor_36,ENT,6,Busy,1000
+D037,Dr. Doctor_37,Dermatology,5,On Leave,700
+D038,Dr. Doctor_38,Pediatrics,15,Busy,500
+D039,Dr. Doctor_39,Oncology,22,Busy,1000
+D040,Dr. Doctor_40,Cardiology,15,Busy,700
+D041,Dr. Doctor_41,Gynecology,2,Available,700
+D042,Dr. Doctor_42,Orthopedics,1,Available,1500
+D043,Dr. Doctor_43,General Medicine,23,On Leave,1500
+D044,Dr. Doctor_44,Dermatology,23,On Leave,700
+D045,Dr. Doctor_45,Dermatology,26,Available,1500
+D046,Dr. Doctor_46,Dermatology,11,On Leave,1000
+D047,Dr. Doctor_47,Cardiology,10,Available,300
+D048,Dr. Doctor_48,Cardiology,18,Busy,1000
+D049,Dr. Doctor_49,Orthopedics,18,Busy,700
+D050,Dr. Doctor_50,Oncology,17,On Leave,700

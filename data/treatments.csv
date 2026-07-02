@@ -1,0 +1,601 @@
+treatmentId,patientId,diagnosis,medicines,treatmentCost
+T00001,P0098,Anemia,"Amlodipine, Omeprazole, Amoxicillin",11805
+T00002,P0093,Arthritis,Aspirin,11654
+T00003,P0472,Appendicitis,"Amoxicillin, Ibuprofen",6853
+T00004,P0022,Asthma,"Cetirizine, Aspirin, Omeprazole",13528
+T00005,P0450,Hypertension,"Amoxicillin, Cetirizine",5457
+T00006,P0172,Diabetes,Cetirizine,9645
+T00007,P0383,Fever,"Amoxicillin, Amlodipine",9994
+T00008,P0134,Asthma,"Ibuprofen, Amoxicillin, Amlodipine",14062
+T00009,P0426,Arthritis,"Aspirin, Metformin",3881
+T00010,P0025,Hypertension,Amlodipine,6339
+T00011,P0185,Fracture,"Paracetamol, Omeprazole",3380
+T00012,P0085,Asthma,"Omeprazole, Cetirizine",10879
+T00013,P0055,Fracture,Metformin,5387
+T00014,P0251,Fever,"Metformin, Aspirin",1045
+T00015,P0144,Fracture,Cetirizine,14632
+T00016,P0351,Fever,"Amlodipine, Aspirin",13804
+T00017,P0398,Hypertension,"Metformin, Ibuprofen",2427
+T00018,P0167,Infection,"Omeprazole, Paracetamol",14341
+T00019,P0412,Fever,"Paracetamol, Amoxicillin",4652
+T00020,P0224,Anemia,"Omeprazole, Metformin, Amoxicillin",14947
+T00021,P0220,Diabetes,Omeprazole,504
+T00022,P0179,Diabetes,Paracetamol,12173
+T00023,P0119,Migraine,"Metformin, Aspirin",6033
+T00024,P0433,Diabetes,"Omeprazole, Aspirin, Metformin",11945
+T00025,P0265,Migraine,Paracetamol,10054
+T00026,P0442,Diabetes,"Ibuprofen, Omeprazole",10512
+T00027,P0429,Fever,Ibuprofen,5878
+T00028,P0150,Anemia,"Paracetamol, Ibuprofen",6733
+T00029,P0416,Infection,Cetirizine,3163
+T00030,P0453,Fracture,Amlodipine,11630
+T00031,P0215,Arthritis,"Aspirin, Paracetamol, Amlodipine",9965
+T00032,P0197,Diabetes,Cetirizine,3826
+T00033,P0042,Infection,Paracetamol,4159
+T00034,P0053,Infection,Aspirin,11637
+T00035,P0480,Fever,"Ibuprofen, Paracetamol, Aspirin",11710
+T00036,P0443,Hypertension,"Paracetamol, Omeprazole",1631
+T00037,P0330,Hypertension,"Amoxicillin, Omeprazole, Metformin",5263
+T00038,P0251,Diabetes,"Aspirin, Paracetamol",7237
+T00039,P0295,Arthritis,"Omeprazole, Metformin, Cetirizine",11328
+T00040,P0378,Diabetes,"Amlodipine, Omeprazole",11721
+T00041,P0271,Diabetes,"Metformin, Cetirizine, Amlodipine",11711
+T00042,P0455,Migraine,Paracetamol,14069
+T00043,P0413,Anemia,"Ibuprofen, Paracetamol",5592
+T00044,P0123,Anemia,"Aspirin, Amlodipine, Ibuprofen",6522
+T00045,P0367,Arthritis,"Paracetamol, Amlodipine, Ibuprofen",13069
+T00046,P0387,Migraine,"Amoxicillin, Omeprazole",3659
+T00047,P0339,Infection,"Metformin, Aspirin, Cetirizine",14015
+T00048,P0266,Migraine,"Omeprazole, Metformin, Paracetamol",6659
+T00049,P0348,Diabetes,"Omeprazole, Aspirin",7818
+T00050,P0029,Hypertension,"Amlodipine, Aspirin, Omeprazole",13723
+T00051,P0463,Asthma,"Ibuprofen, Omeprazole",8945
+T00052,P0035,Arthritis,Amlodipine,5807
+T00053,P0006,Infection,Ibuprofen,9020
+T00054,P0396,Fever,Cetirizine,11283
+T00055,P0111,Asthma,Paracetamol,11522
+T00056,P0294,Asthma,Paracetamol,3544
+T00057,P0077,Migraine,"Cetirizine, Ibuprofen",10112
+T00058,P0349,Fracture,"Ibuprofen, Amlodipine",6136
+T00059,P0147,Asthma,Amoxicillin,12093
+T00060,P0067,Diabetes,"Omeprazole, Aspirin",3392
+T00061,P0392,Appendicitis,Omeprazole,5788
+T00062,P0008,Hypertension,"Metformin, Aspirin",6312
+T00063,P0122,Hypertension,"Aspirin, Amoxicillin",13989
+T00064,P0340,Appendicitis,"Ibuprofen, Amoxicillin, Amlodipine",1154
+T00065,P0175,Anemia,Ibuprofen,5981
+T00066,P0388,Diabetes,"Ibuprofen, Amlodipine, Cetirizine",1259
+T00067,P0179,Fever,"Metformin, Omeprazole",7282
+T00068,P0085,Asthma,"Metformin, Amoxicillin",2298
+T00069,P0451,Anemia,"Amlodipine, Cetirizine, Ibuprofen",5659
+T00070,P0045,Diabetes,"Metformin, Paracetamol",11663
+T00071,P0136,Migraine,"Cetirizine, Amlodipine",13203
+T00072,P0343,Hypertension,"Aspirin, Metformin",12118
+T00073,P0016,Anemia,"Ibuprofen, Amlodipine, Amoxicillin",8946
+T00074,P0333,Arthritis,Omeprazole,5762
+T00075,P0195,Asthma,"Aspirin, Amlodipine, Omeprazole",4323
+T00076,P0496,Asthma,Metformin,2376
+T00077,P0009,Fever,"Aspirin, Amlodipine, Cetirizine",11449
+T00078,P0316,Fracture,"Amlodipine, Paracetamol, Metformin",11316
+T00079,P0334,Arthritis,"Ibuprofen, Paracetamol, Metformin",13687
+T00080,P0333,Asthma,Amoxicillin,6654
+T00081,P0327,Infection,"Omeprazole, Amlodipine, Amoxicillin",8287
+T00082,P0015,Arthritis,"Paracetamol, Cetirizine, Metformin",12813
+T00083,P0327,Asthma,"Ibuprofen, Amlodipine, Aspirin",11696
+T00084,P0102,Appendicitis,"Metformin, Cetirizine",5016
+T00085,P0226,Arthritis,Omeprazole,4234
+T00086,P0425,Diabetes,"Omeprazole, Ibuprofen",9936
+T00087,P0278,Arthritis,"Amoxicillin, Paracetamol",6472
+T00088,P0408,Fever,Amlodipine,7139
+T00089,P0113,Migraine,"Aspirin, Cetirizine",5856
+T00090,P0485,Migraine,Cetirizine,6880
+T00091,P0428,Migraine,"Ibuprofen, Metformin",1508
+T00092,P0001,Diabetes,"Cetirizine, Omeprazole, Amoxicillin",4814
+T00093,P0266,Anemia,Metformin,10202
+T00094,P0491,Migraine,Metformin,10651
+T00095,P0208,Hypertension,"Amlodipine, Omeprazole",3008
+T00096,P0110,Diabetes,"Metformin, Aspirin",5258
+T00097,P0200,Anemia,"Omeprazole, Ibuprofen, Amlodipine",3182
+T00098,P0440,Hypertension,"Metformin, Cetirizine, Aspirin",7811
+T00099,P0369,Hypertension,"Cetirizine, Aspirin",1489
+T00100,P0473,Hypertension,Amlodipine,12976
+T00101,P0306,Infection,"Amoxicillin, Paracetamol",8946
+T00102,P0012,Fever,Amlodipine,12855
+T00103,P0345,Fever,Ibuprofen,5211
+T00104,P0465,Diabetes,Omeprazole,6979
+T00105,P0188,Hypertension,"Omeprazole, Amoxicillin, Cetirizine",7464
+T00106,P0154,Appendicitis,Metformin,13661
+T00107,P0494,Arthritis,Cetirizine,8575
+T00108,P0368,Anemia,"Ibuprofen, Cetirizine",14413
+T00109,P0334,Fever,"Aspirin, Ibuprofen",4952
+T00110,P0425,Migraine,"Metformin, Ibuprofen, Amlodipine",8947
+T00111,P0420,Diabetes,"Metformin, Amoxicillin, Aspirin",1507
+T00112,P0377,Anemia,"Omeprazole, Metformin, Cetirizine",6996
+T00113,P0279,Diabetes,"Amlodipine, Aspirin, Metformin",10447
+T00114,P0171,Appendicitis,"Paracetamol, Aspirin",8188
+T00115,P0134,Infection,Amlodipine,11263
+T00116,P0495,Infection,"Amlodipine, Metformin",4408
+T00117,P0453,Hypertension,"Amoxicillin, Amlodipine",11689
+T00118,P0427,Infection,"Cetirizine, Aspirin, Paracetamol",3303
+T00119,P0025,Diabetes,"Amoxicillin, Omeprazole",12457
+T00120,P0018,Migraine,"Cetirizine, Metformin, Omeprazole",4879
+T00121,P0190,Hypertension,"Metformin, Cetirizine",12075
+T00122,P0141,Asthma,"Amlodipine, Cetirizine, Aspirin",598
+T00123,P0043,Anemia,Amlodipine,8888
+T00124,P0334,Appendicitis,"Omeprazole, Aspirin, Cetirizine",11221
+T00125,P0284,Hypertension,Paracetamol,1377
+T00126,P0146,Diabetes,Paracetamol,2368
+T00127,P0315,Anemia,"Cetirizine, Omeprazole, Metformin",3165
+T00128,P0444,Migraine,"Aspirin, Cetirizine, Omeprazole",1888
+T00129,P0319,Fracture,Ibuprofen,2915
+T00130,P0441,Appendicitis,"Cetirizine, Omeprazole, Amlodipine",9261
+T00131,P0092,Diabetes,"Amoxicillin, Aspirin",3137
+T00132,P0179,Appendicitis,"Aspirin, Amlodipine, Amoxicillin",7742
+T00133,P0056,Fever,Paracetamol,9757
+T00134,P0155,Fracture,Ibuprofen,9113
+T00135,P0160,Anemia,"Ibuprofen, Amoxicillin",3383
+T00136,P0111,Infection,Omeprazole,1704
+T00137,P0137,Diabetes,"Amlodipine, Ibuprofen, Omeprazole",1044
+T00138,P0232,Appendicitis,"Omeprazole, Amoxicillin",12858
+T00139,P0480,Anemia,Omeprazole,12331
+T00140,P0468,Infection,"Metformin, Amlodipine, Ibuprofen",1723
+T00141,P0220,Migraine,"Metformin, Amlodipine",3672
+T00142,P0481,Migraine,"Amoxicillin, Metformin",9459
+T00143,P0068,Appendicitis,Paracetamol,6950
+T00144,P0302,Hypertension,"Aspirin, Ibuprofen",12349
+T00145,P0249,Fever,"Aspirin, Metformin, Ibuprofen",14494
+T00146,P0482,Hypertension,"Omeprazole, Metformin",7020
+T00147,P0496,Fever,Ibuprofen,1154
+T00148,P0323,Diabetes,"Ibuprofen, Amoxicillin, Amlodipine",7321
+T00149,P0410,Asthma,"Paracetamol, Ibuprofen",2946
+T00150,P0392,Appendicitis,"Ibuprofen, Metformin",6392
+T00151,P0006,Arthritis,Omeprazole,8912
+T00152,P0464,Appendicitis,Paracetamol,4166
+T00153,P0280,Fracture,"Ibuprofen, Cetirizine",4777
+T00154,P0432,Infection,"Ibuprofen, Amlodipine, Cetirizine",4902
+T00155,P0487,Fracture,Metformin,3069
+T00156,P0094,Migraine,"Amlodipine, Ibuprofen",6015
+T00157,P0429,Fever,"Omeprazole, Aspirin, Amoxicillin",9705
+T00158,P0269,Infection,"Paracetamol, Amoxicillin",10743
+T00159,P0197,Migraine,Amoxicillin,4485
+T00160,P0025,Infection,"Cetirizine, Paracetamol",13635
+T00161,P0148,Hypertension,"Ibuprofen, Aspirin",8667
+T00162,P0118,Migraine,"Cetirizine, Aspirin, Ibuprofen",13591
+T00163,P0338,Hypertension,"Metformin, Ibuprofen, Paracetamol",7948
+T00164,P0367,Hypertension,"Omeprazole, Aspirin",4810
+T00165,P0338,Infection,"Omeprazole, Aspirin",3519
+T00166,P0066,Anemia,Amoxicillin,4181
+T00167,P0458,Fracture,"Aspirin, Cetirizine, Paracetamol",10135
+T00168,P0301,Migraine,Paracetamol,4696
+T00169,P0370,Arthritis,Omeprazole,11702
+T00170,P0175,Anemia,"Ibuprofen, Metformin",1072
+T00171,P0319,Fracture,"Amlodipine, Ibuprofen, Cetirizine",10024
+T00172,P0076,Migraine,"Amlodipine, Amoxicillin",5253
+T00173,P0495,Fever,"Cetirizine, Ibuprofen, Amlodipine",7582
+T00174,P0461,Fracture,"Ibuprofen, Omeprazole, Cetirizine",4502
+T00175,P0114,Arthritis,"Ibuprofen, Aspirin",6129
+T00176,P0111,Appendicitis,Omeprazole,11826
+T00177,P0249,Diabetes,"Metformin, Amoxicillin",14444
+T00178,P0439,Hypertension,"Cetirizine, Aspirin, Omeprazole",12778
+T00179,P0203,Diabetes,"Paracetamol, Cetirizine, Amoxicillin",8917
+T00180,P0147,Anemia,"Amoxicillin, Omeprazole",4700
+T00181,P0035,Appendicitis,Ibuprofen,2497
+T00182,P0487,Hypertension,Aspirin,9463
+T00183,P0309,Migraine,Amoxicillin,7922
+T00184,P0026,Anemia,Metformin,5024
+T00185,P0238,Arthritis,Paracetamol,9125
+T00186,P0014,Infection,"Omeprazole, Amoxicillin",14018
+T00187,P0374,Migraine,Aspirin,11791
+T00188,P0045,Fracture,"Amoxicillin, Ibuprofen, Cetirizine",11421
+T00189,P0428,Infection,"Ibuprofen, Aspirin, Omeprazole",3907
+T00190,P0216,Anemia,"Paracetamol, Omeprazole, Metformin",7231
+T00191,P0233,Fracture,"Amoxicillin, Cetirizine, Amlodipine",8295
+T00192,P0193,Arthritis,"Ibuprofen, Cetirizine, Amoxicillin",11832
+T00193,P0051,Diabetes,"Amlodipine, Amoxicillin",9557
+T00194,P0427,Fracture,"Omeprazole, Cetirizine, Amlodipine",3293
+T00195,P0375,Diabetes,"Cetirizine, Ibuprofen, Amoxicillin",7834
+T00196,P0214,Hypertension,Amoxicillin,3411
+T00197,P0151,Fever,"Cetirizine, Metformin",8452
+T00198,P0440,Asthma,"Cetirizine, Omeprazole",2915
+T00199,P0275,Migraine,Ibuprofen,750
+T00200,P0338,Asthma,"Ibuprofen, Amlodipine",5451
+T00201,P0076,Hypertension,"Cetirizine, Amlodipine, Paracetamol",8598
+T00202,P0439,Fracture,"Aspirin, Amoxicillin, Amlodipine",12449
+T00203,P0220,Hypertension,Cetirizine,5789
+T00204,P0348,Asthma,Cetirizine,8602
+T00205,P0444,Asthma,"Metformin, Amlodipine, Amoxicillin",7757
+T00206,P0187,Migraine,"Cetirizine, Omeprazole, Amoxicillin",13348
+T00207,P0289,Infection,Amoxicillin,6065
+T00208,P0403,Appendicitis,"Cetirizine, Ibuprofen, Omeprazole",6937
+T00209,P0028,Hypertension,"Amlodipine, Paracetamol",9610
+T00210,P0379,Fever,"Amoxicillin, Metformin, Paracetamol",1673
+T00211,P0180,Appendicitis,"Amoxicillin, Omeprazole, Metformin",11895
+T00212,P0253,Hypertension,Metformin,9124
+T00213,P0126,Arthritis,"Omeprazole, Ibuprofen",14894
+T00214,P0177,Anemia,"Metformin, Omeprazole",13756
+T00215,P0037,Anemia,Paracetamol,1335
+T00216,P0410,Asthma,"Amlodipine, Amoxicillin, Omeprazole",10938
+T00217,P0099,Anemia,"Ibuprofen, Omeprazole",2762
+T00218,P0098,Diabetes,Cetirizine,9589
+T00219,P0127,Fever,"Cetirizine, Omeprazole",12324
+T00220,P0483,Anemia,Metformin,5067
+T00221,P0168,Fracture,"Amoxicillin, Cetirizine, Omeprazole",4315
+T00222,P0080,Diabetes,"Paracetamol, Metformin, Amoxicillin",746
+T00223,P0294,Appendicitis,Paracetamol,2929
+T00224,P0333,Diabetes,"Ibuprofen, Metformin",9682
+T00225,P0126,Hypertension,"Cetirizine, Paracetamol, Aspirin",12002
+T00226,P0343,Asthma,"Metformin, Amlodipine",9618
+T00227,P0310,Migraine,"Ibuprofen, Omeprazole",12130
+T00228,P0150,Migraine,"Ibuprofen, Metformin, Cetirizine",5787
+T00229,P0016,Arthritis,"Cetirizine, Metformin",3107
+T00230,P0028,Fever,Omeprazole,9766
+T00231,P0496,Hypertension,Ibuprofen,6430
+T00232,P0419,Migraine,"Cetirizine, Omeprazole, Metformin",4522
+T00233,P0444,Asthma,Omeprazole,12491
+T00234,P0173,Appendicitis,"Amoxicillin, Metformin",5284
+T00235,P0046,Migraine,"Aspirin, Ibuprofen, Amoxicillin",7117
+T00236,P0328,Fracture,"Omeprazole, Paracetamol, Amoxicillin",3651
+T00237,P0236,Diabetes,"Metformin, Ibuprofen, Aspirin",12130
+T00238,P0439,Migraine,"Omeprazole, Metformin",6080
+T00239,P0214,Hypertension,Cetirizine,7554
+T00240,P0085,Anemia,"Amoxicillin, Ibuprofen",8206
+T00241,P0282,Anemia,"Omeprazole, Amlodipine",8119
+T00242,P0232,Appendicitis,"Paracetamol, Amlodipine, Omeprazole",13747
+T00243,P0085,Anemia,"Amoxicillin, Paracetamol",5073
+T00244,P0409,Appendicitis,"Metformin, Amoxicillin, Amlodipine",3991
+T00245,P0489,Hypertension,Aspirin,1206
+T00246,P0065,Fever,"Cetirizine, Omeprazole, Paracetamol",7497
+T00247,P0134,Anemia,"Cetirizine, Amlodipine, Ibuprofen",5733
+T00248,P0151,Arthritis,Amoxicillin,11756
+T00249,P0115,Asthma,Ibuprofen,9445
+T00250,P0064,Diabetes,Ibuprofen,6255
+T00251,P0343,Anemia,"Omeprazole, Amoxicillin, Ibuprofen",7460
+T00252,P0427,Appendicitis,"Ibuprofen, Aspirin, Cetirizine",9279
+T00253,P0363,Hypertension,"Amoxicillin, Aspirin, Metformin",1834
+T00254,P0407,Anemia,"Metformin, Cetirizine, Amoxicillin",6088
+T00255,P0352,Migraine,"Omeprazole, Paracetamol, Cetirizine",2347
+T00256,P0158,Anemia,Paracetamol,7351
+T00257,P0077,Appendicitis,"Amoxicillin, Cetirizine, Aspirin",12626
+T00258,P0491,Fracture,Amlodipine,7711
+T00259,P0146,Fracture,"Ibuprofen, Paracetamol",8365
+T00260,P0343,Anemia,"Amoxicillin, Omeprazole, Cetirizine",12618
+T00261,P0463,Diabetes,"Metformin, Cetirizine",3817
+T00262,P0225,Hypertension,"Paracetamol, Amoxicillin",12712
+T00263,P0405,Arthritis,Aspirin,11847
+T00264,P0313,Arthritis,"Paracetamol, Cetirizine",12994
+T00265,P0103,Anemia,"Cetirizine, Omeprazole",10890
+T00266,P0407,Anemia,Aspirin,7311
+T00267,P0347,Fracture,"Paracetamol, Omeprazole",664
+T00268,P0301,Appendicitis,Metformin,7560
+T00269,P0428,Diabetes,Aspirin,10690
+T00270,P0466,Anemia,"Metformin, Cetirizine",3557
+T00271,P0088,Arthritis,Metformin,10776
+T00272,P0371,Hypertension,"Paracetamol, Amlodipine",4928
+T00273,P0303,Fever,"Amlodipine, Aspirin",902
+T00274,P0168,Migraine,Aspirin,9105
+T00275,P0435,Anemia,"Aspirin, Amoxicillin",8736
+T00276,P0170,Appendicitis,"Aspirin, Paracetamol",6849
+T00277,P0135,Anemia,"Amlodipine, Omeprazole, Ibuprofen",4657
+T00278,P0050,Appendicitis,Amlodipine,11159
+T00279,P0432,Diabetes,"Aspirin, Cetirizine, Metformin",1367
+T00280,P0340,Fever,"Amoxicillin, Aspirin, Paracetamol",14279
+T00281,P0347,Asthma,Cetirizine,8710
+T00282,P0134,Hypertension,"Aspirin, Cetirizine",864
+T00283,P0347,Hypertension,"Amoxicillin, Metformin",7967
+T00284,P0137,Appendicitis,"Omeprazole, Metformin",12524
+T00285,P0245,Fracture,"Amoxicillin, Omeprazole",7071
+T00286,P0109,Appendicitis,Paracetamol,13928
+T00287,P0313,Fracture,"Aspirin, Cetirizine, Paracetamol",1079
+T00288,P0287,Infection,Amoxicillin,8174
+T00289,P0021,Arthritis,Metformin,9237
+T00290,P0090,Hypertension,"Paracetamol, Amoxicillin, Cetirizine",14517
+T00291,P0296,Diabetes,"Paracetamol, Metformin, Omeprazole",6968
+T00292,P0112,Appendicitis,Aspirin,4650
+T00293,P0301,Diabetes,"Amoxicillin, Cetirizine",13565
+T00294,P0077,Fever,Paracetamol,3539
+T00295,P0177,Diabetes,Cetirizine,4637
+T00296,P0343,Anemia,Omeprazole,14108
+T00297,P0148,Arthritis,"Omeprazole, Metformin, Amlodipine",12736
+T00298,P0101,Anemia,Amoxicillin,13018
+T00299,P0246,Migraine,"Cetirizine, Amlodipine",952
+T00300,P0117,Appendicitis,Amlodipine,12653
+T00301,P0092,Hypertension,"Aspirin, Cetirizine, Amoxicillin",7037
+T00302,P0401,Appendicitis,Omeprazole,14333
+T00303,P0028,Arthritis,"Aspirin, Ibuprofen, Cetirizine",1881
+T00304,P0425,Asthma,"Aspirin, Amoxicillin",8654
+T00305,P0450,Asthma,Cetirizine,1967
+T00306,P0025,Migraine,"Amlodipine, Aspirin",13939
+T00307,P0058,Arthritis,"Ibuprofen, Metformin, Aspirin",3238
+T00308,P0498,Infection,"Amlodipine, Aspirin",8072
+T00309,P0297,Infection,"Paracetamol, Cetirizine",9908
+T00310,P0134,Infection,"Aspirin, Cetirizine",7247
+T00311,P0331,Hypertension,"Amlodipine, Amoxicillin, Metformin",1380
+T00312,P0249,Hypertension,"Amoxicillin, Amlodipine",12506
+T00313,P0038,Infection,"Metformin, Amoxicillin, Amlodipine",3649
+T00314,P0390,Asthma,Amoxicillin,8776
+T00315,P0429,Arthritis,Cetirizine,13841
+T00316,P0075,Diabetes,"Paracetamol, Aspirin",8392
+T00317,P0142,Arthritis,Amoxicillin,4644
+T00318,P0322,Infection,"Amoxicillin, Ibuprofen, Metformin",1668
+T00319,P0168,Arthritis,"Cetirizine, Paracetamol",12856
+T00320,P0259,Fever,Amoxicillin,3629
+T00321,P0373,Hypertension,"Metformin, Omeprazole, Amoxicillin",4145
+T00322,P0355,Hypertension,Amoxicillin,3026
+T00323,P0225,Asthma,"Amoxicillin, Cetirizine",11559
+T00324,P0152,Diabetes,"Cetirizine, Amoxicillin",4016
+T00325,P0019,Infection,"Omeprazole, Amlodipine",3867
+T00326,P0146,Appendicitis,"Omeprazole, Cetirizine",14489
+T00327,P0448,Asthma,"Ibuprofen, Paracetamol",7838
+T00328,P0241,Asthma,"Ibuprofen, Aspirin, Amlodipine",14386
+T00329,P0372,Diabetes,Omeprazole,10886
+T00330,P0381,Anemia,"Aspirin, Paracetamol",4055
+T00331,P0344,Infection,"Amoxicillin, Omeprazole, Metformin",14657
+T00332,P0237,Appendicitis,Cetirizine,5611
+T00333,P0035,Hypertension,"Aspirin, Amlodipine, Metformin",7252
+T00334,P0190,Diabetes,Omeprazole,945
+T00335,P0001,Appendicitis,Aspirin,6864
+T00336,P0484,Fever,"Amoxicillin, Ibuprofen, Cetirizine",4126
+T00337,P0153,Asthma,"Omeprazole, Amlodipine, Amoxicillin",4516
+T00338,P0429,Diabetes,"Ibuprofen, Amoxicillin, Metformin",4375
+T00339,P0433,Hypertension,"Omeprazole, Metformin, Aspirin",5997
+T00340,P0126,Arthritis,"Ibuprofen, Metformin, Cetirizine",12029
+T00341,P0491,Hypertension,"Paracetamol, Cetirizine, Ibuprofen",6738
+T00342,P0482,Fever,Paracetamol,761
+T00343,P0345,Diabetes,Aspirin,10540
+T00344,P0400,Fever,Amoxicillin,5492
+T00345,P0226,Infection,Amlodipine,13882
+T00346,P0221,Infection,Amoxicillin,4525
+T00347,P0403,Arthritis,"Ibuprofen, Amlodipine, Paracetamol",10958
+T00348,P0407,Asthma,"Ibuprofen, Omeprazole, Amoxicillin",14344
+T00349,P0211,Anemia,Paracetamol,8783
+T00350,P0025,Fracture,"Aspirin, Paracetamol, Ibuprofen",4722
+T00351,P0016,Appendicitis,"Cetirizine, Ibuprofen, Amlodipine",4675
+T00352,P0182,Fever,Aspirin,14635
+T00353,P0499,Appendicitis,Metformin,12001
+T00354,P0329,Arthritis,Amlodipine,9674
+T00355,P0129,Appendicitis,Amoxicillin,3943
+T00356,P0042,Appendicitis,"Cetirizine, Aspirin, Amlodipine",5511
+T00357,P0403,Hypertension,"Aspirin, Paracetamol",11225
+T00358,P0481,Diabetes,"Aspirin, Amoxicillin",1193
+T00359,P0418,Asthma,"Amoxicillin, Omeprazole, Metformin",12812
+T00360,P0336,Fracture,"Metformin, Omeprazole",8847
+T00361,P0236,Diabetes,"Paracetamol, Ibuprofen, Amoxicillin",12280
+T00362,P0360,Hypertension,"Aspirin, Cetirizine",2312
+T00363,P0439,Appendicitis,"Paracetamol, Omeprazole",14341
+T00364,P0402,Fracture,Amlodipine,14754
+T00365,P0034,Hypertension,Ibuprofen,14521
+T00366,P0345,Hypertension,"Omeprazole, Cetirizine",13868
+T00367,P0381,Hypertension,Paracetamol,6224
+T00368,P0045,Infection,Amoxicillin,12806
+T00369,P0134,Fracture,"Ibuprofen, Amlodipine, Paracetamol",1907
+T00370,P0021,Hypertension,Cetirizine,8532
+T00371,P0122,Anemia,"Paracetamol, Metformin, Amlodipine",9908
+T00372,P0070,Appendicitis,Amoxicillin,1910
+T00373,P0352,Fracture,"Amlodipine, Aspirin, Omeprazole",3997
+T00374,P0361,Infection,"Metformin, Amlodipine",4872
+T00375,P0048,Fever,Amoxicillin,7894
+T00376,P0491,Fever,"Aspirin, Omeprazole, Cetirizine",13532
+T00377,P0039,Asthma,"Aspirin, Ibuprofen",1051
+T00378,P0287,Migraine,"Amlodipine, Aspirin, Omeprazole",12086
+T00379,P0490,Anemia,"Metformin, Cetirizine, Omeprazole",9868
+T00380,P0010,Fever,"Paracetamol, Ibuprofen",13426
+T00381,P0030,Infection,"Amoxicillin, Aspirin",4832
+T00382,P0244,Migraine,Omeprazole,1497
+T00383,P0274,Hypertension,"Aspirin, Ibuprofen, Amlodipine",4576
+T00384,P0444,Hypertension,Cetirizine,14890
+T00385,P0088,Arthritis,"Ibuprofen, Metformin",6599
+T00386,P0244,Appendicitis,"Aspirin, Amoxicillin",6055
+T00387,P0381,Migraine,Aspirin,11423
+T00388,P0329,Appendicitis,Cetirizine,14944
+T00389,P0479,Infection,Metformin,12629
+T00390,P0015,Anemia,Cetirizine,4552
+T00391,P0004,Migraine,Aspirin,5803
+T00392,P0191,Fever,"Amlodipine, Omeprazole, Amoxicillin",8618
+T00393,P0168,Anemia,"Omeprazole, Paracetamol",14179
+T00394,P0009,Arthritis,Paracetamol,6602
+T00395,P0109,Appendicitis,"Ibuprofen, Amlodipine",14009
+T00396,P0137,Appendicitis,"Metformin, Ibuprofen",5990
+T00397,P0154,Anemia,Amlodipine,9064
+T00398,P0388,Hypertension,"Ibuprofen, Cetirizine",6116
+T00399,P0209,Appendicitis,"Aspirin, Paracetamol, Ibuprofen",2748
+T00400,P0272,Arthritis,Omeprazole,1348
+T00401,P0143,Fever,"Metformin, Cetirizine, Aspirin",11248
+T00402,P0099,Fracture,"Aspirin, Paracetamol",14133
+T00403,P0377,Fever,"Aspirin, Amoxicillin",11014
+T00404,P0308,Fever,Amoxicillin,6854
+T00405,P0069,Appendicitis,"Amlodipine, Omeprazole, Amoxicillin",9195
+T00406,P0247,Diabetes,Amlodipine,8570
+T00407,P0261,Hypertension,"Cetirizine, Amlodipine",11881
+T00408,P0276,Appendicitis,"Amlodipine, Paracetamol",9394
+T00409,P0079,Hypertension,Aspirin,4125
+T00410,P0146,Infection,"Aspirin, Amlodipine",14877
+T00411,P0111,Diabetes,"Metformin, Amlodipine",814
+T00412,P0258,Appendicitis,"Amoxicillin, Omeprazole",2876
+T00413,P0093,Asthma,"Ibuprofen, Cetirizine, Aspirin",9732
+T00414,P0013,Fever,Ibuprofen,4878
+T00415,P0260,Infection,Amlodipine,11682
+T00416,P0426,Diabetes,"Paracetamol, Amoxicillin",8949
+T00417,P0109,Appendicitis,"Aspirin, Ibuprofen",1074
+T00418,P0330,Arthritis,"Ibuprofen, Amlodipine",13361
+T00419,P0189,Anemia,"Amlodipine, Ibuprofen",13830
+T00420,P0095,Anemia,"Amoxicillin, Ibuprofen",10244
+T00421,P0105,Hypertension,"Amlodipine, Amoxicillin",13210
+T00422,P0008,Diabetes,"Cetirizine, Omeprazole",6085
+T00423,P0067,Fever,"Ibuprofen, Cetirizine, Metformin",5992
+T00424,P0496,Fever,"Aspirin, Amlodipine",9449
+T00425,P0191,Fracture,"Omeprazole, Paracetamol",3310
+T00426,P0366,Anemia,"Amoxicillin, Cetirizine, Aspirin",8634
+T00427,P0256,Infection,Paracetamol,9796
+T00428,P0009,Diabetes,"Ibuprofen, Omeprazole, Metformin",6170
+T00429,P0478,Fever,"Cetirizine, Aspirin",8215
+T00430,P0117,Fracture,"Metformin, Aspirin, Amoxicillin",7067
+T00431,P0267,Diabetes,"Ibuprofen, Metformin, Omeprazole",13216
+T00432,P0099,Migraine,"Amoxicillin, Amlodipine",3959
+T00433,P0485,Fever,"Amlodipine, Omeprazole, Amoxicillin",6617
+T00434,P0298,Migraine,"Metformin, Amoxicillin",4492
+T00435,P0397,Diabetes,"Ibuprofen, Cetirizine, Amoxicillin",8337
+T00436,P0164,Fever,"Aspirin, Cetirizine, Paracetamol",703
+T00437,P0376,Migraine,"Metformin, Paracetamol",3275
+T00438,P0141,Asthma,Omeprazole,11024
+T00439,P0268,Fracture,Paracetamol,2492
+T00440,P0037,Infection,"Aspirin, Ibuprofen, Amlodipine",2743
+T00441,P0074,Anemia,"Metformin, Paracetamol",8998
+T00442,P0073,Fracture,Cetirizine,2187
+T00443,P0308,Migraine,Amoxicillin,4609
+T00444,P0199,Fever,"Omeprazole, Amoxicillin",2360
+T00445,P0130,Asthma,"Amlodipine, Ibuprofen",10653
+T00446,P0246,Asthma,Ibuprofen,5676
+T00447,P0312,Anemia,Cetirizine,1222
+T00448,P0060,Asthma,"Metformin, Paracetamol",9471
+T00449,P0279,Fracture,"Amlodipine, Ibuprofen, Aspirin",14021
+T00450,P0103,Appendicitis,"Ibuprofen, Aspirin",9220
+T00451,P0296,Asthma,Ibuprofen,5393
+T00452,P0320,Anemia,"Ibuprofen, Paracetamol",843
+T00453,P0487,Asthma,"Ibuprofen, Amlodipine",12478
+T00454,P0341,Asthma,Cetirizine,12374
+T00455,P0151,Arthritis,Metformin,5898
+T00456,P0157,Fracture,Omeprazole,8900
+T00457,P0206,Migraine,"Metformin, Omeprazole, Ibuprofen",5236
+T00458,P0474,Hypertension,"Amoxicillin, Cetirizine, Metformin",3906
+T00459,P0179,Appendicitis,"Amlodipine, Ibuprofen, Cetirizine",10003
+T00460,P0197,Asthma,"Ibuprofen, Metformin",10991
+T00461,P0223,Infection,"Amlodipine, Metformin",12028
+T00462,P0089,Asthma,"Aspirin, Amoxicillin, Paracetamol",10639
+T00463,P0287,Arthritis,"Amoxicillin, Ibuprofen, Cetirizine",1419
+T00464,P0434,Migraine,"Aspirin, Paracetamol",6319
+T00465,P0276,Infection,"Amoxicillin, Metformin, Amlodipine",2544
+T00466,P0236,Appendicitis,"Metformin, Cetirizine, Paracetamol",918
+T00467,P0183,Infection,"Amlodipine, Ibuprofen, Aspirin",2249
+T00468,P0209,Fracture,Ibuprofen,11534
+T00469,P0493,Anemia,Cetirizine,7878
+T00470,P0130,Anemia,"Ibuprofen, Cetirizine, Omeprazole",14176
+T00471,P0153,Appendicitis,"Aspirin, Cetirizine",1599
+T00472,P0013,Migraine,"Metformin, Amlodipine",3892
+T00473,P0122,Anemia,"Ibuprofen, Cetirizine",3272
+T00474,P0359,Diabetes,Cetirizine,11172
+T00475,P0220,Arthritis,"Metformin, Omeprazole, Ibuprofen",14944
+T00476,P0106,Appendicitis,"Metformin, Ibuprofen",7284
+T00477,P0375,Appendicitis,"Metformin, Ibuprofen",2045
+T00478,P0070,Hypertension,"Amlodipine, Cetirizine",1570
+T00479,P0195,Hypertension,"Aspirin, Cetirizine",7022
+T00480,P0186,Fracture,Aspirin,2350
+T00481,P0099,Fracture,"Amlodipine, Amoxicillin",13907
+T00482,P0082,Hypertension,"Amlodipine, Cetirizine, Metformin",5553
+T00483,P0075,Anemia,"Cetirizine, Metformin",12890
+T00484,P0374,Fever,Omeprazole,3439
+T00485,P0340,Appendicitis,"Paracetamol, Aspirin",13957
+T00486,P0192,Diabetes,"Paracetamol, Amoxicillin",10595
+T00487,P0325,Appendicitis,Amoxicillin,7694
+T00488,P0467,Asthma,"Ibuprofen, Amoxicillin",6351
+T00489,P0214,Migraine,"Ibuprofen, Amoxicillin, Omeprazole",7173
+T00490,P0315,Arthritis,"Ibuprofen, Metformin",1178
+T00491,P0444,Fever,Paracetamol,14756
+T00492,P0467,Diabetes,Cetirizine,1488
+T00493,P0382,Asthma,Cetirizine,13893
+T00494,P0367,Fracture,Cetirizine,11167
+T00495,P0318,Diabetes,Ibuprofen,10299
+T00496,P0144,Hypertension,"Ibuprofen, Cetirizine, Aspirin",11561
+T00497,P0384,Appendicitis,Metformin,2002
+T00498,P0216,Diabetes,"Omeprazole, Cetirizine",2289
+T00499,P0361,Migraine,Ibuprofen,5781
+T00500,P0324,Infection,"Amoxicillin, Ibuprofen, Paracetamol",5527
+T00501,P0015,Fracture,"Amoxicillin, Amlodipine, Paracetamol",1925
+T00502,P0217,Arthritis,"Cetirizine, Amlodipine",13849
+T00503,P0492,Arthritis,Ibuprofen,14766
+T00504,P0439,Diabetes,Amoxicillin,7154
+T00505,P0035,Infection,Omeprazole,2940
+T00506,P0183,Appendicitis,"Aspirin, Metformin, Cetirizine",10734
+T00507,P0270,Asthma,Amoxicillin,7356
+T00508,P0433,Fever,Paracetamol,7867
+T00509,P0467,Appendicitis,"Omeprazole, Cetirizine, Amlodipine",9970
+T00510,P0358,Asthma,"Amlodipine, Ibuprofen, Omeprazole",13990
+T00511,P0100,Fever,"Cetirizine, Ibuprofen",3094
+T00512,P0007,Infection,"Metformin, Ibuprofen",5189
+T00513,P0030,Fever,"Paracetamol, Amlodipine",2936
+T00514,P0467,Appendicitis,"Amlodipine, Omeprazole, Metformin",6017
+T00515,P0305,Migraine,Amlodipine,12495
+T00516,P0473,Diabetes,"Omeprazole, Aspirin, Metformin",10897
+T00517,P0144,Asthma,"Aspirin, Amoxicillin, Metformin",9719
+T00518,P0111,Migraine,"Cetirizine, Omeprazole, Amoxicillin",6810
+T00519,P0232,Asthma,"Ibuprofen, Paracetamol",4039
+T00520,P0179,Diabetes,"Metformin, Amoxicillin, Cetirizine",13747
+T00521,P0072,Anemia,"Cetirizine, Omeprazole, Amlodipine",3983
+T00522,P0210,Fever,"Ibuprofen, Amlodipine",7871
+T00523,P0220,Infection,"Paracetamol, Aspirin, Omeprazole",2741
+T00524,P0080,Anemia,Ibuprofen,6878
+T00525,P0500,Anemia,"Omeprazole, Aspirin, Paracetamol",3265
+T00526,P0083,Arthritis,"Aspirin, Metformin, Amoxicillin",9865
+T00527,P0042,Hypertension,Ibuprofen,11922
+T00528,P0273,Appendicitis,"Omeprazole, Aspirin",12042
+T00529,P0191,Migraine,"Omeprazole, Cetirizine",5411
+T00530,P0173,Migraine,"Amlodipine, Cetirizine, Amoxicillin",903
+T00531,P0461,Migraine,"Paracetamol, Ibuprofen",13680
+T00532,P0007,Migraine,Ibuprofen,11417
+T00533,P0155,Appendicitis,Metformin,3882
+T00534,P0010,Anemia,Ibuprofen,4663
+T00535,P0034,Appendicitis,"Paracetamol, Amoxicillin",8130
+T00536,P0036,Migraine,Amlodipine,587
+T00537,P0409,Hypertension,"Cetirizine, Metformin, Amlodipine",14836
+T00538,P0006,Fracture,Omeprazole,9850
+T00539,P0408,Diabetes,"Metformin, Amlodipine",6316
+T00540,P0402,Migraine,"Amlodipine, Paracetamol, Amoxicillin",5970
+T00541,P0215,Infection,"Cetirizine, Omeprazole, Aspirin",14975
+T00542,P0134,Fracture,Aspirin,6776
+T00543,P0285,Appendicitis,"Metformin, Omeprazole, Paracetamol",6239
+T00544,P0126,Infection,Amoxicillin,4773
+T00545,P0409,Infection,"Metformin, Ibuprofen",11549
+T00546,P0439,Asthma,"Amoxicillin, Cetirizine, Omeprazole",10073
+T00547,P0337,Infection,"Paracetamol, Ibuprofen",7023
+T00548,P0174,Migraine,"Omeprazole, Aspirin, Paracetamol",5503
+T00549,P0152,Asthma,"Amlodipine, Amoxicillin",8538
+T00550,P0331,Arthritis,Amoxicillin,13373
+T00551,P0026,Anemia,"Metformin, Omeprazole",7106
+T00552,P0383,Infection,Metformin,13777
+T00553,P0115,Hypertension,"Omeprazole, Amlodipine",13919
+T00554,P0382,Diabetes,Aspirin,14957
+T00555,P0482,Infection,Amlodipine,2564
+T00556,P0284,Arthritis,Paracetamol,5815
+T00557,P0387,Fever,"Amlodipine, Amoxicillin, Ibuprofen",11066
+T00558,P0075,Appendicitis,"Amoxicillin, Omeprazole, Aspirin",817
+T00559,P0166,Appendicitis,Aspirin,2002
+T00560,P0189,Arthritis,"Ibuprofen, Aspirin, Metformin",6630
+T00561,P0078,Fever,Metformin,7919
+T00562,P0435,Appendicitis,Metformin,2542
+T00563,P0090,Appendicitis,"Aspirin, Amlodipine, Amoxicillin",5098
+T00564,P0176,Appendicitis,"Amlodipine, Metformin",10714
+T00565,P0021,Arthritis,"Metformin, Ibuprofen",618
+T00566,P0054,Anemia,"Cetirizine, Aspirin, Omeprazole",1209
+T00567,P0184,Diabetes,Cetirizine,4057
+T00568,P0359,Arthritis,Amoxicillin,12832
+T00569,P0222,Fever,"Aspirin, Amlodipine, Omeprazole",13101
+T00570,P0315,Infection,Amoxicillin,3750
+T00571,P0328,Anemia,"Aspirin, Paracetamol",8561
+T00572,P0179,Anemia,Ibuprofen,9109
+T00573,P0276,Infection,"Metformin, Cetirizine, Paracetamol",3103
+T00574,P0112,Hypertension,"Omeprazole, Metformin",12546
+T00575,P0224,Asthma,"Aspirin, Amlodipine",1601
+T00576,P0214,Diabetes,"Amlodipine, Aspirin, Amoxicillin",4921
+T00577,P0059,Diabetes,Paracetamol,8357
+T00578,P0327,Hypertension,"Metformin, Paracetamol, Amlodipine",12120
+T00579,P0393,Asthma,Paracetamol,8677
+T00580,P0109,Diabetes,Aspirin,14227
+T00581,P0385,Fever,"Cetirizine, Omeprazole, Aspirin",6582
+T00582,P0157,Fracture,"Aspirin, Amoxicillin, Omeprazole",7158
+T00583,P0191,Fracture,"Metformin, Omeprazole",2761
+T00584,P0200,Diabetes,"Amlodipine, Ibuprofen, Paracetamol",8521
+T00585,P0312,Migraine,"Metformin, Cetirizine",12861
+T00586,P0196,Diabetes,Amlodipine,12326
+T00587,P0035,Infection,"Omeprazole, Amoxicillin, Cetirizine",14390
+T00588,P0379,Infection,"Metformin, Amlodipine, Omeprazole",1008
+T00589,P0387,Asthma,"Amoxicillin, Paracetamol",2879
+T00590,P0246,Appendicitis,Metformin,11856
+T00591,P0237,Anemia,"Metformin, Amoxicillin",9379
+T00592,P0104,Fever,"Paracetamol, Amlodipine, Omeprazole",5252
+T00593,P0007,Hypertension,"Amlodipine, Paracetamol, Aspirin",14330
+T00594,P0283,Diabetes,"Amlodipine, Omeprazole, Paracetamol",9984
+T00595,P0001,Appendicitis,Ibuprofen,5995
+T00596,P0219,Appendicitis,"Cetirizine, Metformin",12597
+T00597,P0464,Fever,"Amlodipine, Omeprazole",11767
+T00598,P0230,Hypertension,"Metformin, Aspirin",3709
+T00599,P0455,Infection,Omeprazole,7898
+T00600,P0172,Arthritis,"Cetirizine, Ibuprofen",7243
