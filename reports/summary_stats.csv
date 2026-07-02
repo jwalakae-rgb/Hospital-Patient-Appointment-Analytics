@@ -1,0 +1,12 @@
+Metric,Value
+Total Patients,500.0
+Total Doctors,50.0
+Total Appointments,1000.0
+Total Treatments,600.0
+Completed Appointments,573.0
+Cancelled Appointments,222.0
+Success Rate (%),57.3
+Cancellation Rate (%),22.2
+Total Consultation Revenue,479400.0
+Total Treatment Revenue,4650857.0
+Grand Total Revenue,5130257.0
